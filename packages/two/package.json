@@ -1,0 +1,12 @@
+{
+  "name": "two",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Two\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
