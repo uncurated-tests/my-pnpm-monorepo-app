@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Two\""
+    "build": "mkdir public && echo \"Two\" >> public/index.txt"
   },
   "keywords": [],
   "author": "",
