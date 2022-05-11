@@ -1,15 +1,15 @@
 {
-  "name": "three",
+  "name": "components",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "mkdir public && echo \"Three\" >> public/index.txt"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "hapi": "^18.1.0"
+    "once": "^1.4.0"
   }
 }
